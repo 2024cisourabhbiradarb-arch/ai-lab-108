@@ -5,7 +5,7 @@ class TreeNode:
 
 # DFS function
 def dfs(node, visited):
-    if node is None:
+    if node is None:       
         return
     
     # Visit node
